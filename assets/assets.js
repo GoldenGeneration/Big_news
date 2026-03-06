@@ -11,7 +11,7 @@ export const assets = {
 export const blog_data = [
     {
     id: 1,
-    title: "Guide to life",
+    title: "Guide to life 01",
     description: "Useless damn it",
     image: lifestyle,
     data: Date.now(),
@@ -21,7 +21,7 @@ export const blog_data = [
 },
     {
     id: 2,
-    title: "Guide to life",
+    title: "Guide to life 02",
     description: "Useless damn it",
     image: lifestyle,
     data: Date.now(),
@@ -31,7 +31,7 @@ export const blog_data = [
 },
     {
     id: 3,
-    title: "Guide to life",
+    title: "Guide to life 03",
     description: "Useless damn it",
     image: lifestyle,
     data: Date.now(),
@@ -41,7 +41,7 @@ export const blog_data = [
 },
     {
     id: 4,
-    title: "Guide to life",
+    title: "Guide to life 04",
     description: "Useless damn it",
     image: lifestyle,
     data: Date.now(),
@@ -51,7 +51,7 @@ export const blog_data = [
 },
     {
     id: 5,
-    title: "Guide to life",
+    title: "Guide to life 05",
     description: "Useless damn it",
     image: lifestyle,
     data: Date.now(),

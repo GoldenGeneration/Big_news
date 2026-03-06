@@ -12,6 +12,7 @@ function Header() {
           width={120}
           alt="brobish"
           className="w-20.5 sm:w-auto"
+          priority
         />
         <button className="flex items-center gap-2 font-medium py-1 px-3 sm:py-3 sm:px-6 border border-solid border-black shadow-[-7px_7px_0px_#000] cursor-pointer hover:shadow-[-10px_10px_0px_#000]">
           Get Started
@@ -28,7 +29,7 @@ function Header() {
           <input
             type="email"
             placeholder="Enter your email"
-            className="pl-4 outline-none w-auto"
+            className="w-full px-4 py-3 outline-none"
           />
           <button type="submit" className="border-l py-4 px-4 sm:px-8 hover:cursor-pointer hover:bg-gray-200">
             Subscribe
